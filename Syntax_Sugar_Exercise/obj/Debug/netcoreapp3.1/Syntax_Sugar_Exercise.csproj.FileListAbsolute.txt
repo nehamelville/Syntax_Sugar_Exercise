@@ -1,0 +1,13 @@
+/Users/neha.melville/Desktop/Repo/Syntax_Sugar_Exercise/Syntax_Sugar_Exercise/bin/Debug/netcoreapp3.1/Syntax_Sugar_Exercise.deps.json
+/Users/neha.melville/Desktop/Repo/Syntax_Sugar_Exercise/Syntax_Sugar_Exercise/bin/Debug/netcoreapp3.1/Syntax_Sugar_Exercise.runtimeconfig.json
+/Users/neha.melville/Desktop/Repo/Syntax_Sugar_Exercise/Syntax_Sugar_Exercise/bin/Debug/netcoreapp3.1/Syntax_Sugar_Exercise.runtimeconfig.dev.json
+/Users/neha.melville/Desktop/Repo/Syntax_Sugar_Exercise/Syntax_Sugar_Exercise/bin/Debug/netcoreapp3.1/Syntax_Sugar_Exercise.dll
+/Users/neha.melville/Desktop/Repo/Syntax_Sugar_Exercise/Syntax_Sugar_Exercise/bin/Debug/netcoreapp3.1/Syntax_Sugar_Exercise.pdb
+/Users/neha.melville/Desktop/Repo/Syntax_Sugar_Exercise/Syntax_Sugar_Exercise/obj/Debug/netcoreapp3.1/Syntax_Sugar_Exercise.csproj.AssemblyReference.cache
+/Users/neha.melville/Desktop/Repo/Syntax_Sugar_Exercise/Syntax_Sugar_Exercise/obj/Debug/netcoreapp3.1/Syntax_Sugar_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neha.melville/Desktop/Repo/Syntax_Sugar_Exercise/Syntax_Sugar_Exercise/obj/Debug/netcoreapp3.1/Syntax_Sugar_Exercise.AssemblyInfoInputs.cache
+/Users/neha.melville/Desktop/Repo/Syntax_Sugar_Exercise/Syntax_Sugar_Exercise/obj/Debug/netcoreapp3.1/Syntax_Sugar_Exercise.AssemblyInfo.cs
+/Users/neha.melville/Desktop/Repo/Syntax_Sugar_Exercise/Syntax_Sugar_Exercise/obj/Debug/netcoreapp3.1/Syntax_Sugar_Exercise.csproj.CoreCompileInputs.cache
+/Users/neha.melville/Desktop/Repo/Syntax_Sugar_Exercise/Syntax_Sugar_Exercise/obj/Debug/netcoreapp3.1/Syntax_Sugar_Exercise.dll
+/Users/neha.melville/Desktop/Repo/Syntax_Sugar_Exercise/Syntax_Sugar_Exercise/obj/Debug/netcoreapp3.1/Syntax_Sugar_Exercise.pdb
+/Users/neha.melville/Desktop/Repo/Syntax_Sugar_Exercise/Syntax_Sugar_Exercise/obj/Debug/netcoreapp3.1/Syntax_Sugar_Exercise.genruntimeconfig.cache
